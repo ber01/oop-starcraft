@@ -10,7 +10,7 @@
 
 ![](https://velog.velcdn.com/images/ksyj8256/post/d5db0ed3-076d-446a-b2d3-a8145f9f7ef2/image.png)
 
-- (V) 누르면 벌처가 나온다. 
+- (V) 누르면 벌처가 나온다.
 - (T) 누르면 탱크가 나온다.
 - (G) 누르면 골리앗이 나온다.
 
